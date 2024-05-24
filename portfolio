@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>19-01-2024_2201010011_website</title>
+    <style>
+        
+        h1{
+            text-align: center;
+            color: blue;
+            
+            }
+            img{
+                border-radius: 20px;
+            }
+        h4{
+            text-align: center;
+            color: red;
+            line-height: 0.5em;
+            font-size: 25px;
+            font-weight: bold;
+        }
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }
+          th {
+            background-color: blue;
+          }
+          </style>
+</head>
+<body>
+    <h1> Saksham Agarwal</h1>
+    <h4>Web developer</h4><img src="img2.jpg" alt="my image" width="200" height="" style="float: right;">
+    <br>
+    <h2>About Me</h2> 
+    <p>
+        I am Saksham Agarwal. I am Pursing B.Tech CSE at K.R Mangalam University.
+        I am from Ramnagar, Nainital, Uttarakhand. My age is 19. I am a good web 
+         developer with lot of more skill like java programmer. My hobby is to 
+         play Badminton.
+    </p>
+    <h2>Skills</h2>
+    <p>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Java programmer</li>
+        </ul>
+
+    </p>
+    <h2>Projects</h2>
+    <table style="width:100%">
+        <tr>
+            <th>Project Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Project 1</td>
+            <td>Description of Project 1</td>
+        </tr>
+        <tr>
+            <td>Project 2</td>
+            <td>Description of project 2</td>
+        </tr>
+        <tr>
+            <td>Project 3</td>
+            <td>Description of project 3</td>
+        </tr>
+
+    </table>
+    <h2> Audio </h2>
+    <audio controls>
+        <source src="Audio.mp3" type="audio/mp3">
+        
+    </audio>
+
+    <h2> Video</h2>
+    <video controls muted>
+        <source src="video2.mp4" type="video/mp4">
+    </video>
+    <br>
+   
+
+</body>
+</html>
